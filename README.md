@@ -1,0 +1,1 @@
+This Portfolio App is a professional, responsive website that showcases my web development skills, projects, and services. It serves as a digital resume for potential clients and employers to explore my background, experience, and technical abilities.
